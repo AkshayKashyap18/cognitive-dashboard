@@ -104,7 +104,7 @@ export default function PersonaMap({
         </div>
         <div style={{ marginTop: 8 }}>
           <small className="text-sm text-muted">
-            Tip: try the sample JSON if you don't have data.
+            Tip: try the sample JSON if you do not have data.
           </small>
         </div>
       </div>
