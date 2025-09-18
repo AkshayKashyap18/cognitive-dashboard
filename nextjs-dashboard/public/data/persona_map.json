@@ -1,0 +1,8 @@
+[
+  {"student_id":1,"name":"Aisha Khan","x":-1.2,"y":0.4,"persona":"Engaged High Achiever","assessment_score":92},
+  {"student_id":2,"name":"Rahul Sharma","x":0.5,"y":1.4,"persona":"Steady Learner","assessment_score":78},
+  {"student_id":3,"name":"Sana Patel","x":1.8,"y":-0.6,"persona":"Needs Attention","assessment_score":62},
+  {"student_id":4,"name":"David Kim","x":-0.7,"y":-1.2,"persona":"Distracted Low Engagement","assessment_score":45},
+  {"student_id":5,"name":"Lina Chen","x":0.9,"y":0.2,"persona":"Engaged High Achiever","assessment_score":88},
+  {"student_id":6,"name":"Omar Ali","x":-0.2,"y":0.9,"persona":"Steady Learner","assessment_score":74}
+]
